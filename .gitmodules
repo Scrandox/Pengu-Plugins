@@ -1,0 +1,9 @@
+[submodule "plugins/profile-utils"]
+	path = plugins/profile-utils
+	url = https://github.com/Scrandox/profile-utils-ScranCustom
+[submodule "plugins/Elaina-theme-data"]
+	path = plugins/Elaina-theme-data
+	url = https://github.com/Scrandox/Elaina-theme-data-ScranCustom
+[submodule "plugins/Elaina-V4"]
+	path = plugins/Elaina-V4
+	url = https://github.com/Scrandox/Elaina-V4-ScranCustom
